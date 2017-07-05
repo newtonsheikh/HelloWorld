@@ -11,5 +11,10 @@ namespace HelloWrld
         static void Main(string[] args)
         {
         }
+
+        public void startEngine()
+        {
+        }
+        Console.WriteLine("skslalkd");
     }
 }
